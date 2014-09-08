@@ -31,11 +31,10 @@ p#top_padding {
     padding-top: 50px;
 }
 
-.top-bar,.top-bar-section {
-
-background-color:#000078;
-
+.top-bar,.top-bar-section,.topbar-dropdown-label-bg,.top-bar a {
+    background-color:#000078 !important;
 }
+
 
 #footer {
 position: fixed;
