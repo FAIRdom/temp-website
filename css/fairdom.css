@@ -42,3 +42,9 @@ height: 50px; /* choose any height */
 background-color:#000078;
 
 }
+div#foundry_banner {
+    background-color: #fff69e;
+    width:100%;
+    padding: 0.1em;
+    text-align: center;
+}
