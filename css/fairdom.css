@@ -33,6 +33,14 @@ p#top_padding {
     background-color:#000060 !important;
 }
 
+div#info_banner {
+    background-color: #fff69e;
+    width:100%;
+    padding: 0.15em;
+    text-align: center;
+    border: 1px #bbb solid;
+}
+
 
 #footer {
 position: fixed;
