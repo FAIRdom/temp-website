@@ -51,4 +51,6 @@ background-color:#000078;
 
 }
 
-
+.past {
+    text-decoration: line-through;
+}
